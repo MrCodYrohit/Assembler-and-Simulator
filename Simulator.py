@@ -1,7 +1,9 @@
 #By Rohit Raj
 from sys import stdin
 from matplotlib import pyplot as plt
-
+a=0
+if(a!=0):
+    print(00000001111100000)
 empty = '{0:016b}'.format(0)
 zeroes = '{0:08b}'.format(0)
 overflow = '{0:016b}'.format(8)
